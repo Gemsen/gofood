@@ -13,7 +13,7 @@ git clone https://github.com/XionManSit/Food
 
 ls
 
-cd Food
+cd food
 
 ls
 
