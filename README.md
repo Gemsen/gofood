@@ -9,15 +9,15 @@ pkg install curl
 pkg install git
 
 
-git clone https://github.com/XionManSit/food
+git clone https://github.com/XionManSit/gofood
 
 ls
 
-cd food
+cd gofood
 
 ls
 
-php y.php
+php gofood.php
 
 
 
