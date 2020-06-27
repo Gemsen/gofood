@@ -19,7 +19,13 @@ ls
 
 php gofood.php
 
+ID       :XionManSit
+
+Password :xms
 
 
-GUNAKAN DENGAN BIJAK
+
+Hanya Scrip Rename
+
+
  
